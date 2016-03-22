@@ -1,0 +1,17 @@
+
+.students {
+  margin: auto;
+  width: 80%;
+}
+
+.student {
+  background: #99ddd8;
+  border-radius: 3px;
+  box-shadow: 1px 1px grey;
+  margin: 5px;
+  padding: 20px;
+}
+
+img {
+  height: 150px;
+}
